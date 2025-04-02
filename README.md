@@ -6,7 +6,7 @@
 </div>
 
 
-**Greetings, space traveler! 
+Greetings, space traveler! 
 i'm ryan! 
 
 <div align="center">
