@@ -2,11 +2,15 @@
 
 <div align="center">
   <img src="https://github.com/ryfank/stuff/raw/main/E6r6Oq4XMAA5GQa.png" alt="Neopets Image">
+  .𖥔 ݁ ˖ 
 </div>
 
-Greetings, space traveler! 
+** Greetings, space traveler! **
+** i'm ryan! **
 
-# i'm ryan!
+<div align="center">
+  .𖥔 ݁ ˖ 
+</div>
 
 .𖥔 ݁ ˖ 
    
