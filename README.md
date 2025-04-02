@@ -1,16 +1,24 @@
-## Hi there 👋
+# .𖥔 ݁ ˖ Welcome to My GitHub Space! .𖥔 ݁ ˖
 
-<!--
-**ryfank/ryfank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Neopets Image](https://github.com/ryfank/stuff/raw/main/E6r6Oq4XMAA5GQa.png)
 
-Here are some ideas to get you started:
+Greetings, space traveler! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm ryan!
+
+.𖥔 ݁ ˖ 
+   
+I’m **Ryan**, a passionate web developer on a mission to create cosmic-level web apps using **Python**, **Django**, and anything else I can get my hands on. 
+
+### What Do I Do:
+- ** Building intergalactic web apps** 
+- ** Securing** data like a space fortress ** 
+- ** Crafting sleek, intuitive user experiences** 
+
+### Skills:
+- **Python & Django** 
+- **HTML, CSS, JS** for building 
+- **Database management** (SQL & NoSQL) 
+- **Space-themed user interfaces** (because why not?) 
+
+🛸࿐໋₊‧ ֹ٠
