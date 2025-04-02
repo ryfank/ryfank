@@ -1,16 +1,12 @@
 # .𖥔 ݁ ˖ Welcome to My GitHub Space! .𖥔 ݁ ˖
 
-<div align="center">
-  .𖥔 ݁ ˖ 
-</div>
- 
 
 <div align="center">
   <img src="https://github.com/ryfank/stuff/raw/main/E6r6Oq4XMAA5GQa.png" alt="Neopets Image">
 </div>
 
-** Greetings, space traveler! **
-** i'm ryan! **
+**Greetings, space traveler! 
+**i'm ryan! 
 
 <div align="center">
   .𖥔 ݁ ˖ 
