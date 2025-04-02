@@ -15,7 +15,7 @@ i'm ryan!
 
 
    
-I’m **Ryan**, a passionate web developer on a mission to create cosmic-level web apps using **Python**, **Django**, and anything else I can get my hands on. 
+I’m **Ryan**, a passionate web developer and next-Gen Cybersecurity specialist on a mission to create cosmic-level web apps using **Java**, **C**, **Python**, **Django**, and anything else I can get my hands on. 
 
 ### What Do I Do:
 - ** Building intergalactic web apps** 
