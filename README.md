@@ -23,10 +23,14 @@ I’m **Ryan**, a passionate web developer and next-Gen Cybersecurity specialist
 - ** Crafting sleek, intuitive user experiences** 
 
 ### Skills:
-- **Python & Django** 
 - **HTML, CSS, JS** for building 
 - **Database management** (SQL & NoSQL) 
 - **Space-themed user interfaces** (because why not?)
+- **Low-level and high level languages**
+ **I specialize in but not limited to:**
+        Python
+        Java
+        C++, C#, C
 
 <div align="center">
   .𖥔 ݁ ˖ 🛸࿐໋₊‧ ֹ٠ .𖥔 ݁ ˖ 
