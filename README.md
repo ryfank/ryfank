@@ -20,3 +20,6 @@ backend development, but I enjoy making the front end shine too.
 <div align="center">
   . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
+
+<div align="center">
+  <img src="https://github.com/ryfank/stuff/raw/main/cute-ghost-cute.gif alt="ghost Image">
