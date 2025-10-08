@@ -14,8 +14,8 @@ backend development, but I enjoy making the front end shine too.
 ### ‧₊˚ ☽ ⋅ Skills:  
 - • Frontend — HTML, CSS, JavaScript  
 - • Databases — SQL + NoSQL  
-- • Backend & Beyond — Python, Java, C, C++, C#  
-- • Extra touch — spacey & Sanrio-inspired UIs ✦  
+- • Backend — Python, Java, C, C++, C#  
+- • Extra touch — spacey & Sanrio inspired UIs :] ✦  
 
 <div align="center">
   . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
