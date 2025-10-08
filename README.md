@@ -21,6 +21,8 @@ backend development, but I enjoy making the front end shine too.
   . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
 
+
+
 <div align="center">
   <img src="https://github.com/ryfank/stuff/raw/main/cute-ghost-cute.gif" alt="Cute Ghost GIF" width="300">
 </div>
