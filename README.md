@@ -4,7 +4,7 @@
 
 I’m a web developer + cybersecurity enthusiast who loves building
 safe, creative, and playful projects. Most of my work leans toward 
-backend development, but I enjoy making the front end shine too.  
+backend development, but I enjoy making the front end pretty too.  
 
 ### ‧₊˚ ☽ ⋅  What I Do:  
 - • Build secure + scalable web apps  
