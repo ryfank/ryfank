@@ -2,9 +2,9 @@
 
 ### /ᐠ - ˕ -マ Ⳋ  hello ~ I’m Ryan!  
 
-I’m a web developer + cybersecurity enthusiast who loves building
-safe, creative, and playful projects. Most of my work leans toward 
-backend development, but I enjoy making the front end pretty too.  
+I build full-stack applications with a secure backbone and a cozy frontend. 
+I specialize in robust backend systems, but
+I never skip out on making the UI pretty and intuitive. 
 
 ### ‧₊˚ ☽ ⋅  What I Do:  
 - • Build secure + scalable web apps  
